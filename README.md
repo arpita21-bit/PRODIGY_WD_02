@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
-Task 2 - Interactive Navigation Menu
+# PRODIGY_WD_01
+Task 1 - Resonsive Landing Page
